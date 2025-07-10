@@ -1,5 +1,5 @@
 # 💫 Hi! I'm @dabecart!
-⚡ I'm a random software and electronics everyday engineer. <br>🎉 The work I post here is what I enjoy doing!<br>🔭 Currently working on GMV.<br>🌱 I’m currently learning about compilers and assembly!<br>
+⚡ I'm a software and electronics everyday engineer. <br>🎉 The work I post here is what I enjoy doing!<br>🔭 Currently working on GMV.<br>🌱 I’m currently learning about compilers and assembly!<br>
 
 
 ## 🌐 Socials:

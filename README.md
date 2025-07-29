@@ -6,7 +6,7 @@
 |Check out some of my projects!||
 |---|---|
 |🎲 [The Avalanche Roll](https://github.com/dabecart/TheAvalancheRoll)<br>It's a space-graded truly-random and up to D32 electronic dice that operates on a quantum operated phenomenon called avalanche effect!|<img src="img/TheDice_v2.png" width="400"/>|
-|💻 [MIDDS](https://github.com/dabecart/MIDDS)<br>The MIDDS is a peripheral board designed to connect to a computer via USB, enhancing your software with timestamped GPIO capabilities.|<img src="img/MIDDS.jpg" width="400"/>|
+|💻 [PROTO MIDDS](https://github.com/dabecart/PROTO-MIDDS)<br>The MIDDS is a peripheral board designed to connect to a computer via USB, enhancing your software with timestamped GPIO capabilities.|<img src="img/MIDDS.jpg" width="400"/>|
 |🔴🟢🔵 [ColorGuess](https://colorguess.io/)<br>A game where you have to guess the daily color!|<img src="img/ColorGuess.png" width="400"/>|
 
 
